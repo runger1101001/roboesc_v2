@@ -1,0 +1,12 @@
+Item #,Ref Des,Qty,Manufacturer,Mfg Part #, Description / Value,Package,Type,Your Instructions / Notes
+1,"D1,D2",2,Generic,Generic,LED Green (? 560nm)  Vf 2.1V @20mA,0402 (LED),SMD,"Generic, e.g. https://eu.mouser.com/datasheet/2/348/sml-p1-e-1874493.pdf"
+2,U1,1,ST Micro,STSPIN233,STSPIN233,VQFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm,SMD,https://www.st.com/en/motor-drivers/stspin233.html#overview
+3,"R12,R8",2,Generic,Generic,6.2k,0402,SMD,Generic
+4,"R11,R5,R4,R3,R2",5,Generic,Generic,18k,0402,SMD,Generic
+5,"R7,R6",2,Generic,Generic,4k7,0402,SMD,Generic
+6,R1,1,Generic,Generic,12k,0402,SMD,Generic
+7,C13,1,Generic,Generic,0.1µF 6.3V,0402,SMD,Generic
+8,C4,1,Generic,Generic,22?F 16V,1206,SMD,Generic
+9,C3,1,Generic,Generic,2.2?F 16V,0805,SMD,Generic
+10,C2,1,Generic,Generic,1nF 6.3V,0402,SMD,Generic
+11,C1,1,Generic,Generic,10nF 6.3V,0402,SMD,Generic
