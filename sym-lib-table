@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESCv2-rescue)(type Legacy)(uri ${KIPRJMOD}/ESCv2-rescue.lib)(options "")(descr ""))
+  (lib (name runger)(type Legacy)(uri /Users/runger/Documents/making/kicad/runger.lib)(options "")(descr ""))
+)
